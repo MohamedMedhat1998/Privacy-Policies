@@ -4,7 +4,7 @@
 
 ## Overview
 
-This Privacy Policy describes how we collect, use, and share information when you use our Android application (Quran Memorizing Helper "The App"). By downloading and using the App, you agree to the terms of this Privacy Policy.
+This Privacy Policy describes how we collect, use, and share information when you use our Android application (Quran Memorizing Assistant "The App"). By downloading and using the App, you agree to the terms of this Privacy Policy.
 
 ## Information We Collect
 
